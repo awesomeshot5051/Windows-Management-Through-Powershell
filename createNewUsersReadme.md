@@ -35,4 +35,8 @@ Data Integrity: The input CSV file contains exactly three specific headers: Fnam
 
 
 Example usage:
+<<<<<<< HEAD
 The file: [NewHiresModule_7.csv](https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/NewHiresModule_7.csv)
+=======
+The file: [NewHiresModule_7.csv](https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/NewHiresModule_7.csv) can be used to test the script's usage on a Active Directory Domain-joined machine.
+>>>>>>> 06a9a02 (Changed ReadMe to be .md instead of .txt)
