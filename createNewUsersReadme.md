@@ -35,4 +35,4 @@ Data Integrity: The input CSV file contains exactly three specific headers: Fnam
 
 
 Example usage:
-The file: (https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/NewHiresModule_7.csv)[NewHiresModule_7.csv]
+The file: (https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/NewHiresModule_7.csv) [NewHiresModule_7.csv]
