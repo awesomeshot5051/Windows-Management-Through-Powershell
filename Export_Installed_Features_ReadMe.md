@@ -1,4 +1,4 @@
-Export_Installed_Features.ps1
+script [Export_Installed_Features.ps1](https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/Export_Installed_Features.ps1)
 -----------------------------
 
 This PowerShell script retrieves all **installed roles and features** from a Windows system and exports the information to a timestamped CSV file.

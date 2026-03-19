@@ -1,4 +1,4 @@
-Script Name: createNewUsers-1.ps1
+Script Name: [createNewUsers-1.ps1](https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/createNewUsers-1.ps1)
 
 Description:
 This PowerShell script automates the bulk onboarding of new employees into Active Directory. It reads user data from a CSV file, generates secure random passwords, manages Organizational Unit (OU) placement (including dynamic creation), and exports a final credential report for IT or HR distribution.

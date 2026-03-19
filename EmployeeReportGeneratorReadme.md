@@ -1,4 +1,4 @@
-Script Name: EmployeeReportGenerator.ps1
+Script Name: [EmployeeReportGenerator.ps1](https://github.com/awesomeshot5051/Windows-Management-Through-Powershell/blob/master/EmployeeReportGenerator.ps1)
 
 Description:
 This PowerShell script facilitates the collection of employee work data through an interactive console interface. It captures employee names and their respective weekly hours, performs statistical calculations for total and average time, and exports the finalized data into a professionally formatted ASCII text report.
